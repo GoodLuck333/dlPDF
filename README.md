@@ -17,12 +17,12 @@ The sadness of a joke
   
   静静地想想，还是哭晕吧〜
 
-### 执行流程图
+### 执行流程
 
 <img src="./readmeImg/1.jpg" width="400" alt="执行流程1、2"/>
 <img src="./readmeImg/2.jpg" width="400" alt="执行流程3"/>
 
-### 下载&&生成文件图
+### 下载&&生成文件
 
 <img src="./readmeImg/3.jpg" width="400" alt="生成文件"/>
 <img src="./readmeImg/4.jpg" width="400" alt="下载文件"/>
